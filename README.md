@@ -1,23 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<!--<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-}
 
-td, th {
-  border: 1px solid #bbbbbb;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #eeeeee;
-}
-</style>-->
-</head>
 <body>
 
 <h1>World Biomedical Informatics Rankings</h1>
