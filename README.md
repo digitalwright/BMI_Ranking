@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
+<!--<style>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -16,7 +16,7 @@ td, th {
 tr:nth-child(even) {
   background-color: #eeeeee;
 }
-</style>
+</style>-->
 </head>
 <body>
 
